@@ -91,7 +91,7 @@ hg38 =    GRCh38 = ENSEMBL  release_76/77/78/80/81/82
 
 高速下载方法：
 1、aspera
-2、axel
+2、axel      axel -n 500 ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR391/SRR391033/SRR391033.fastq.gz
 3、迅雷
 
 
