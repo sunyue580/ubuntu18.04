@@ -1,0 +1,5 @@
+ubuntu安装zeroTier:
+1、curl -s https://install.zerotier.com | sudo bash
+2、sudo zerotier-cli join <NetworkID>
+3、sudo zerotier-cli status
+
