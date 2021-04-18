@@ -1,3 +1,7 @@
+安装aspera：
+1、wget https://download.asperasoft.com/download/sw/connect/3.9.9/ibm-aspera-connect-3.9.9.177872-linux-g2.12-64.tar.gz
+2、bash ibm-aspera-connect-3.9.9.177872-linux-g2.12-64.sh 
+
 -------------------------------------------------------EBI------------------------------------------------------------------
 
 ##ENA数据库下载fastq文件
